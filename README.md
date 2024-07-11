@@ -4,7 +4,7 @@
 輸入您想用生成文章的標題，
 我們就會輸出生成的文章。
 # 網站
-我們尚未完成
+https://huggingface.co/spaces/hackeryu314159/wordchatgpt
 # 如何執行
 可以用我們上面給的app.py執行，
 不過需要自行安裝模組
